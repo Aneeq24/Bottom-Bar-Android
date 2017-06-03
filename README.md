@@ -12,9 +12,9 @@
 * No more nasty regressions, thanks to the automated tests
 * **Everything is a little different compared to earlier, but it's for the greater good!**
 
-[How to contribute](https://github.com/kevinjam/Bottom-Bar-Android/master/README.md#contributions)
+[How to contribute](https://github.com/kevinjam/Bottom-Bar-Android#contributions)
 
-[Changelog](https://github.com/kevinjam/Bottom-Bar-Android/master/CHANGELOG.md)
+[Changelog](https://github.com/kevinjam/Bottom-Bar-Android/blob/master/CHANGELOG.md)
 
 ## What?
 
@@ -66,7 +66,6 @@ Specify a different layout for your activity in.
                     android:layout_marginTop="10dp"
                     android:background="@drawable/ic_people"/>
                 <com.kevinjanvier.hackmtn.customfonts.MyTextView
-
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
