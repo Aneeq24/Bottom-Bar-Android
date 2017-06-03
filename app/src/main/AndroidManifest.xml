@@ -19,7 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MalakomTn" />
+        <activity android:name=".Userd" />
         <activity android:name=".ListMenuMtn"></activity>
     </application>
 
